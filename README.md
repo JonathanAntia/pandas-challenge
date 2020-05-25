@@ -4,7 +4,7 @@ Using pandas and jupyter notebook to analyze a city's school district data
 In order to help the school board and mayor make strategic decision regarding future budgets and priorities,
 this project analyzes the district-wide standardized test results (students_complete.csv),
 including every student's math and reading scores, as well as various information on the school 
-they attend (schools_complete.csv). The purpose is to aggregate the data in showcase obvious
+they attend (schools_complete.csv). The purpose is to aggregate the data and showcase obvious
 trends in school performance.
 
 The final report includes:
