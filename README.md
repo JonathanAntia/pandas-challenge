@@ -18,9 +18,9 @@ The final report includes:
         Total Budget
         Average Math Score
         Average Reading Score
-        % Passing Math (The percentage of students that passed math.)
-        % Passing Reading (The percentage of students that passed reading.)
-        % Overall Passing (The percentage of students that passed math and reading.)
+        % Passing Math (The percentage of students that passed math)
+        % Passing Reading (The percentage of students that passed reading)
+        % Overall Passing (The percentage of students that passed math and reading)
 
 
     School Summary:
@@ -33,9 +33,9 @@ The final report includes:
         Per Student Budget
         Average Math Score
         Average Reading Score
-        % Passing Math (The percentage of students that passed math.)
-        % Passing Reading (The percentage of students that passed reading.)
-        % Overall Passing (The percentage of students that passed math and reading.)
+        % Passing Math (The percentage of students that passed math)
+        % Passing Reading (The percentage of students that passed reading)
+        % Overall Passing (The percentage of students that passed math and reading)
 
 
     Top Performing Schools (By % Overall Passing):
@@ -48,9 +48,9 @@ The final report includes:
         Per Student Budget
         Average Math Score
         Average Reading Score
-        % Passing Math (The percentage of students that passed math.)
-        % Passing Reading (The percentage of students that passed reading.)
-        % Overall Passing (The percentage of students that passed math and reading.)
+        % Passing Math (The percentage of students that passed math)
+        % Passing Reading (The percentage of students that passed reading)
+        % Overall Passing (The percentage of students that passed math and reading)
 
 
     Bottom Performing Schools (By % Overall Passing):
@@ -59,21 +59,21 @@ The final report includes:
 
 
     Math Scores by Grade:
-    A table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+    A table that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 
     Reading Scores by Grade:
-    A table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+    A table that lists the average reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 
     Scores by School Spending:
-    A table that breaks down school performances based on average Spending Ranges (Per Student). Including:
+    A table that breaks down school performance based on average Spending Ranges (Per Student). Including:
 
         Average Math Score
         Average Reading Score
-        % Passing Math (The percentage of students that passed math.)
-        % Passing Reading (The percentage of students that passed reading.)
-        % Overall Passing (The percentage of students that passed math and reading.)
+        % Passing Math (The percentage of students that passed math)
+        % Passing Reading (The percentage of students that passed reading)
+        % Overall Passing (The percentage of students that passed math and reading)
 
 
     Scores by School Size:
