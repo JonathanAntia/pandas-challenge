@@ -1,4 +1,4 @@
-# pandas-chanllenge
+# pandas-challenge
 Using pandas and jupyter notebook to analyze a city's school district data
 
 In order to help the school board and mayor make strategic decision regarding future budgets and priorities,
